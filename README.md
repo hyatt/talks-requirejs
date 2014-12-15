@@ -1,10 +1,10 @@
 An Introduction to RequireJS
 ============================
 
-Presented by Nigam Patel (@nigampatel)
+Presented by Nigam Patel (@nigampatel) on December 1, 2014
 
 
-## Presentation -- December 01, 2014
+## Summary
 Building JavaScript apps that you enjoy working on after a year is very difficult.  This talk focuses on how to create and maintain JavaScript Modules using the AMD pattern.  This descreases code complexity and increases JS maintainability. 
 
 This shallow dive of the require.js library helps you write modular javascript applications.
